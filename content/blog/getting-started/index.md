@@ -17,7 +17,7 @@ draft: false
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 image:
   placement: 2
-  caption: 'Image credit: [**Unsplash**](https://raw.githubusercontent.com/zpcursos/website-content/master/static/img/unsplash-dog.jpg)'
+  caption: 'Image credit: [**Unsplash**](https://raw.githubusercontent.com/zponline/website-content/master/static/img/unsplash-dog.jpg)'
   focal_point: ""
   preview_only: false
 
@@ -39,6 +39,6 @@ Aperte neste botão aqui 👉 [Botão]
 
 ZP!
 
-{{< figure src="https://raw.githubusercontent.com/zpcursos/website-content/master/static/img/zp.png" title="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
+{{< figure src="https://raw.githubusercontent.com/zponline/website-content/master/static/img/zp.png" title="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
 
 
