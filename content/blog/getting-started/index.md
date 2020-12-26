@@ -39,6 +39,6 @@ Aperte neste botão aqui 👉 [Botão]
 
 ZP!
 
-{{< figure src="https://raw.githubusercontent.com/zponline/website-content/master/static/img/zp.png" title="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
+{{< figure src="https://raw.githubusercontent.com/zponline/website-content/master/static/img/zp.png" title="ZP Cursos e Promoções." >}}
 
 
