@@ -37,7 +37,7 @@ Aulas de matemática, geografia e artes, todas disponíveis aqui.
 
 Aperte neste botão aqui 👉 [Botão]
 
-Mais uma novidade da ZP!
+Mais uma novidade da ZP, para ver outras sigam-nos em nossas redes sociais.
 
 {{< figure src="https://raw.githubusercontent.com/zponline/website-content/master/static/img/zp.png" title="ZP Cursos e Promoções" >}}
 
