@@ -29,7 +29,7 @@ image:
 projects: []
 ---
 
-**Increva-se e começe a acompanhar!**
+**Inscreva-se e começe a acompanhar!**
 
 Aulas de matemática, geografia e artes, todas disponíveis aqui.
 
@@ -37,7 +37,7 @@ Aulas de matemática, geografia e artes, todas disponíveis aqui.
 
 Aperte neste botão aqui 👉 [Botão]
 
-ZP!
+Mais uma novidade da ZP!
 
 {{< figure src="https://raw.githubusercontent.com/zponline/website-content/master/static/img/zp.png" title="ZP Cursos e Promoções" >}}
 
